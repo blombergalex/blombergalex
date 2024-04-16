@@ -7,7 +7,7 @@
 
  💎 I love to **forever keep sharpening my CSS skills ⚡**
 
- 💬 How to reach me **blombergalexandras@gmail.com**
+ 💬 Reach out to me! **blombergalexandras@gmail.com**
 
  🤸🏽 Fun fact: **I also love to dance, skydive, snowboard, hike, read, paint, sing and meditate**
 
