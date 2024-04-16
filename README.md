@@ -21,3 +21,5 @@
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=blombergalex&show_icons=true&title_color=f0d738&text_color=ffffff&bg_color=303030&hide_border=true&cache_seconds=1800&locale=en&layout=compact" alt="blombergalex" /></p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=blombergalex&show_icons=true&theme=dark&locale=en&layout=compact" alt="blombergalex" /></p>
