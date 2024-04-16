@@ -1,4 +1,3 @@
-Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Alexandra</h1>
 <h3 align="center">An enthuisiastic frontend developer from Stockholm</h3>
