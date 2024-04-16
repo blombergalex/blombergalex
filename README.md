@@ -11,7 +11,7 @@
 
  🤸🏽 Fun fact: **I also love to dance, skydive, snowboard, hike, read, paint, sing and meditate**
 
-<h3 align="left">Connect with on LinkedIn</h3>
+<h3 align="left">Connect on LinkedIn</h3>
 <p align="left">
 <a href="https://linkedin.com/in/alexandra-blomberg-7231a616a/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alexandra-blomberg-7231a616a/" height="30" width="40" /></a>
 </p>
