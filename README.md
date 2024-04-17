@@ -1,5 +1,4 @@
-<h1 align="center">Hi! I'm Alexandra 🌻</h1>
-<h3 align="center">An Enthuisiastic Frontend Developer from Stockholm</h3>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Josefin+Slab&size=30&pause=1000&color=F7ED53&background=FFFFFF00&center=true&random=false&width=435&lines=Hi!+I'm+Alexandra+%F0%9F%8C%BB;An+Enthuisiastic+Frontend+Developer+from+Stockholm)](https://git.io/typing-svg)
 
  🔭 I’m currently working on [Zen Gem Haven](https://github.com/blombergalex/gems)
 
