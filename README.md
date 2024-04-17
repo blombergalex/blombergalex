@@ -1,6 +1,9 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Josefin+Slab&size=40&duration=4000&pause=200&color=F7ED53&background=FFFFFF00&repeat=false&random=false&width=500&height=60&lines=Hi!+I'm+Alexandra+%F0%9F%8C%BB)](https://git.io/typing-svg)
+<div align='center'>
+ 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Josefin+Slab&size=40&duration=4000&pause=200&color=F7ED53&background=FFFFFF00&repeat=false&random=false&width=500&height=70&lines=Hi!+I'm+Alexandra+%F0%9F%8C%BB)](https://git.io/typing-svg)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Josefin+Slab&size=30&duration=4000&pause=200&color=F7ED53&background=FFFFFF00&random=false&width=800&lines=An+Enthuisiastic+Frontend+Developer+from+Stockholm)](https://git.io/typing-svg)
+</div>
 
  🔭 I’m currently working on [Zen Gem Haven](https://github.com/blombergalex/gems)
 
