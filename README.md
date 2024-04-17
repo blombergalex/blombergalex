@@ -1,7 +1,6 @@
 <div align='center'>
-
-
-<img src='https://readme-typing-svg.herokuapp.com?font=Josefin+Slab&size=40&duration=5000&pause=200&color=F7ED53&background=FFFFFF00&repeat=false&random=false&width=500&height=70&lines=Hi!+I'm+Alexandra+%F0%9F%8C%BB)']
+ 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Josefin+Slab&size=40&duration=4000&pause=200&color=F7ED53&background=FFFFFF00&center=true&repeat=false&random=false&width=500&height=80&lines=Hi!+I'm+Alexandra%F0%9F%8C%BB)](https://git.io/typing-svg)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Josefin+Slab&size=40&duration=4000&pause=200&color=F7ED53&background=FFFFFF00&repeat=true&random=false&width=900&height=60&lines=An+Enthusiastic+Frontend+Developer+from+Stockholm+%E2%98%80%EF%B8%8F;Crafting+Digital+Creations+with+Code+%F0%9F%8E%A8)](https://git.io/typing-svg)
 
