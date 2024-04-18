@@ -4,13 +4,13 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Josefin+Slab&size=40&duration=4000&pause=200&color=F7ED53&background=FFFFFF00&center=true&repeat=true&random=false&width=1000&height=80&lines=An+Enthusiastic+Web+Developer+from+Stockholm%E2%98%80%EF%B8%8F;Crafting+Digital+Creations+with+Code+%F0%9F%8E%A8+)](https://git.io/typing-svg)
 
- 🔭 I’m currently working on [Zen Gem Haven](https://github.com/blombergalex/gems)
+ <h4>🔭 I’m currently working on [Zen Gem Haven](https://github.com/blombergalex/gems)</h4>
 
- 🌱 On my continuous journey to master **React**
+ <h4>🌱 On my continuous journey to master **React**</h4>
 
- 💎 I love to **forever keep sharpening my CSS skills ⚡**
+ <h4>⚡ I love to **forever keep sharpening my CSS skills **</h4>
 
- 🤸🏽 Fun fact: **I also love to dance, skydive, snowboard, hike, read, paint, sing and meditate**
+ <h4>🤸🏽 Fun fact: **I also love to dance, skydive, snowboard, hike, read, paint, sing and meditate**</h4>
 
 <h3>Connect</h3>
 
