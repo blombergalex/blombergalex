@@ -12,7 +12,7 @@
 
  <h4>🤸🏽 Fun fact: I also love to dance, skydive, snowboard, hike, read, paint, sing and meditate</h4>
 
-<h3>Connect</h3>
+<h3>Connect with me</h3>
 
  <a href="mailto:blombergalexandras@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
