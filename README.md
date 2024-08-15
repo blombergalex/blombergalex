@@ -4,11 +4,11 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Josefin+Slab&size=40&duration=4000&pause=200&color=F7ED53&background=FFFFFF00&center=true&repeat=true&random=false&width=1000&height=80&lines=An+Enthusiastic+Web+Developer+from+Stockholm%E2%98%80%EF%B8%8F;Crafting+Digital+Creations+with+Code+%F0%9F%8E%A8+)](https://git.io/typing-svg)
 
- <h4>🔭 I’m currently working on <a href='https://github.com/blombergalex/music-library2.0'>Music Library 2.0</a>, an upgrade to my previous project <a href='https://github.com/blombergalex/the-music-library'>The Music Library</a>. In the upgrade I continue with the use of React, but switch to TypeScript and fetch the data from an API.</h4>
+ <h3>🔭 I’m currently working on <a href='https://github.com/blombergalex/music-library2.0'>Music Library 2.0</a>, an upgrade to my previous project <a href='https://github.com/blombergalex/the-music-library'>The Music Library</a>. In the upgrade I continue with the use of React, but switch to TypeScript and fetch the data from an API.</h3>
 
  <h4>🌱 On my continuous journey to master React</h4>
 
- <h4>⚡ I love to forever keep sharpening my CSS skills </h4>
+ <h4>⚡ and sharpen my CSS skills </h4>
 
  <h4>🤸🏽 Fun fact: I also love to dance, skydive, snowboard, hike, read, paint, sing and meditate</h4>
 
