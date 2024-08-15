@@ -8,7 +8,7 @@
 
  <h4>🌱 On my continuous journey to master React</h4>
 
- <h4>⚡ and sharpen my CSS skills </h4>
+ <h4>and sharpen my CSS skills ⚡</h4>
 
  <h4>🤸🏽 Fun fact: I also love to dance, skydive, snowboard, hike, read, paint, sing and meditate</h4>
 
