@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Josefin+Slab&size=40&duration=4000&pause=200&color=F7ED53&background=FFFFFF00&center=true&repeat=true&random=false&width=1000&height=80&lines=An+Enthusiastic+Web+Developer+from+Stockholm%E2%98%80%EF%B8%8F;Crafting+Digital+Creations+with+Code+%F0%9F%8E%A8+)](https://git.io/typing-svg)
 
- <h3>🔭 I recently created <a href='https://github.com/blombergalex/music-library2.0' target='_blank'>The Music Library 2.0</a>, an upgrade to my previous project <a href='https://github.com/blombergalex/the-music-library' target='_blank'>The Music Library</a>. In the upgrade I continue with the use of React, but switch to TypeScript and fetch the data from an API.</h3>
+ <h3>🔭 I recently created <a href='https://github.com/blombergalex/music-library2.0' target="_blank">The Music Library 2.0</a>, an upgrade to my previous project <a href='https://github.com/blombergalex/the-music-library' target="_blank">The Music Library</a>. In the upgrade I continue with the use of React, but switch to TypeScript and fetch the data from an API.</h3>
 
  <h4>🌱 On my continuous journey to master React</h4>
 
