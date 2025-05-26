@@ -5,7 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Josefin+Slab&size=40&duration=4000&pause=200&color=F7ED53&background=FFFFFF00&center=true&repeat=true&random=false&width=1000&height=80&lines=An+Enthusiastic+Web+Developer+from+Stockholm%E2%98%80%EF%B8%8F;Crafting+Digital+Creations+with+Code+%F0%9F%8E%A8+)](https://git.io/typing-svg)
 
  <h3>See projects below ⬇️</h3>
-  <h3>Currently frontend interning @ WNDY  📍 Stockholm</h3>
+  <h3>Currently fullstack intern @ WNDY  📍 Stockholm</h3>
  <h4>🛠 Key Focus Areas</h4>
  <p>
   Cross-team collaboration</br> 
